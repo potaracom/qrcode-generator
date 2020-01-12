@@ -10,7 +10,7 @@ https://qiita.com/potara/items/9fedca16a57c4f5a3160
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-generator/releases/download/v1/qrcode-generator-ver1.plugin.zip  
+https://github.com/potaracom/qrcode-generator/releases/download/v2/qrcode-generator-ver2.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -23,3 +23,10 @@ https://github.com/potaracom/qrcode-generator/releases/download/v1/qrcode-genera
 
 ライセンス更新作業の完了をメールで連絡します。  
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
+
+# 更新情報
+
+- 2020/1/12 v2 リリース  
+  軽微な不具合を修正
+
+- 2019/10/7 v1 リリース

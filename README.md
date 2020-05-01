@@ -5,12 +5,12 @@ kintone のフィールド値や URL を元に QR コードを生成するプラ
 # 詳細
 
 以下の URL をご確認ください。  
-https://qiita.com/potara/items/9fedca16a57c4f5a3160
+https://potara.net/plugin/qrcode-generator/
 
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-generator/releases/download/v5/qrcode-generator-ver5.plugin.zip  
+https://github.com/potaracom/qrcode-generator/releases/download/v6/qrcode-generator-ver6.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -25,6 +25,9 @@ https://github.com/potaracom/qrcode-generator/releases/download/v5/qrcode-genera
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+- 2020/5/1 v6 リリース  
+  アイコンやURLなどを修正
+
 - 2020/3/27 v5 リリース  
   プラグインの競合問題に対応
 

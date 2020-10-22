@@ -10,7 +10,7 @@ https://potara.net/plugin/qrcode-generator/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-generator/releases/download/v7/qrcode-generator-ver7.plugin.zip  
+https://github.com/potaracom/qrcode-generator/releases/download/v8/qrcode-generator-ver8.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -25,6 +25,9 @@ https://github.com/potaracom/qrcode-generator/releases/download/v7/qrcode-genera
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+- 2020/10/22 v8 リリース  
+  QRコードの内容にレコード番号を選択できる機能を追加
+
 - 2020/5/23 v7 リリース  
   ゲストスペース内アプリに対応
 
